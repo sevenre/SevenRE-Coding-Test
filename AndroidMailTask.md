@@ -1,6 +1,6 @@
 # SevenRE Coding Test (Native Android)
 
-[SevenRE](http://www.seven-re.com/home) is an German technology start-up with great products in pipeline. With welcoming arms for the young eager minds of tomorrow we have prepared a competitive screening test. Your overall objective would be to ***prepare a Mailbox*** which fetches mail list from server and shows them in simple list and some additional functionalities.
+[SevenRE](http://www.seven-re.com/home) is a German technology start-up building great products. With welcoming arms for the young eager minds of tomorrow we have prepared a competitive screening test. Your overall objective would be to ***prepare a Mailbox*** which fetches mail list from server and shows them in simple list and some additional functionalities.
 
 ### Tasks
 
