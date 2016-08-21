@@ -1,6 +1,6 @@
 # Coding test for openings at SevenRE 
 
-[SevenRE](http://www.seven-re.com) is an German technology start-up with great products in pipeline. With welcoming arms for the young eager minds of tomorrow we will be listing few competitive screening tests here.
+[SevenRE](http://www.seven-re.com) is a German technology start-up building great products. With welcoming arms for the young eager minds of tomorrow we will be listing few competitive screening tests here.
 
 ##### Disclaimer
 
